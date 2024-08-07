@@ -11,8 +11,7 @@
 您可以通过访问 [文档](https://example.com/docs) 来了解更多关于如何使用本项目的信息。
 
 ## GitHub 仓库
-最近在学习书生大模型相关课程，其如下
-大模型的课程：[GitHub 仓库](https://github.com/InternLM/Tutorial)
+最近在学习书生大模型相关课程，其大模型的课程链接：[书生大模型的GitHub 仓库](https://github.com/InternLM/Tutorial)
 
 ## 联系方式
 
