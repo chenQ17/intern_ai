@@ -1,1 +1,19 @@
 # intern_ai
+![intern_ai](https://private-user-images.githubusercontent.com/25839884/348517003-93ff2412-777c-4619-812b-0134eb327cf3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwNDc2MzUsIm5iZiI6MTcyMzA0NzMzNSwicGF0aCI6Ii8yNTgzOTg4NC8zNDg1MTcwMDMtOTNmZjI0MTItNzc3Yy00NjE5LTgxMmItMDEzNGViMzI3Y2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDE2MTUzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1NTM1Y2NkMTFhMGJhNmI5MDQ3N2Q1YjlhOTFiNmVkYWQwNDhkNzBiMDRiY2Y4Njg4MTgxNDQ3NzUzZDg5ZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._4sN-ZqErzd9_cd1pF7Cuvjm1TFskUOZkQiLDGg9-LE)
+欢迎来到 intern_ai 项目！
+
+## 介绍
+
+这是一个关于 intern_ai 的项目，它旨在提供一系列 AI 相关的功能和服务。
+
+## 文档
+
+您可以通过访问 [文档](https://example.com/docs) 来了解更多关于如何使用本项目的信息。
+
+## GitHub 仓库
+最近在学习书生大模型相关课程，其大模型的课程链接：[书生大模型的GitHub 仓库](https://github.com/InternLM/Tutorial)
+
+## 联系方式
+
+如果您有任何问题或反馈，请通过 [联系方式](https://example.com/contact) 与我们联系。
+
