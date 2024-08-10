@@ -1,5 +1,5 @@
 # intern_ai
-![intern_ai](https://profile-avatar.csdnimg.cn/5ed6395bd2ea49f4924c90a500d6a969_qq_33867768.jpg!)
+![intern_ai](https://profile-avatar.csdnimg.cn/5ed6395bd2ea49f4924c90a500d6a969_qq_33867768.jpg)
 欢迎来到 intern_ai 项目！!
 
 ## 介绍
