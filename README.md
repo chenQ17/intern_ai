@@ -1,7 +1,7 @@
 # intern_ai
 ![intern_ai](https://profile-avatar.csdnimg.cn/5ed6395bd2ea49f4924c90a500d6a969_qq_33867768.jpg)
 欢迎来到 intern_ai 项目！!
-
+![701yjs_ai](https://s2.loli.net/2024/08/11/IB8o6WhFpd79ZlX.png)
 ## 介绍
 
 这是一个关于 intern_ai 的项目，它旨在提供一系列 AI 相关的功能和服务。
