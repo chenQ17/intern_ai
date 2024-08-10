@@ -8,7 +8,7 @@
 基于 InternLM 实现 目标跟踪决策的行业大模型，利用MOE实现对不同场景和不同算法的动态决策。
 ## 文档
 
-您可以通过访问 [文档](https://example.com/docs) 来了解更多关于如何使用本项目的信息。  
+您可以通过访问 [文档](https://aicarrier.feishu.cn/wiki/Q7CSwHcDfiSCaxkpqifcxu4ynqJ) 来了解更多关于如何使用本项目的信息。  
 
 ## GitHub 仓库
 最近在学习书生大模型相关课程，其大模型的课程链接：[书生大模型的GitHub 仓库](https://github.com/InternLM/Tutorial)  
