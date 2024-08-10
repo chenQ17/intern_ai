@@ -12,7 +12,7 @@
 
 ## GitHub 仓库
 最近在学习书生大模型相关课程，其大模型的课程链接：[书生大模型的GitHub 仓库](https://github.com/InternLM/Tutorial)  
-
+good
 ## 联系方式
 
 如果您有任何问题或反馈，请通过 [联系方式](https://example.com/contact) 与我们联系。  
